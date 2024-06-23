@@ -1,0 +1,1 @@
+# Module 7 guides exercises: **UML diagrams using Lucid tool**. 
