@@ -1,1 +1,1 @@
-# Module 7 guides exercises: **UML diagrams using Lucid tool**. 
+# Module 7: UML exercises: **UML diagrams using Lucid tool**. 
